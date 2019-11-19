@@ -1,0 +1,4 @@
+cache-path;G:\RestApi\Xamarin_CRUD_Rest_Api\RestApi\obj\Release\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;G:\RestApi\Xamarin_CRUD_Rest_Api\RestApi\obj\Release\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;G:\RestApi\Xamarin_CRUD_Rest_Api\RestApi\obj\Release\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;G:\RestApi\Xamarin_CRUD_Rest_Api\RestApi\obj\Release\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
